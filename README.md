@@ -26,7 +26,7 @@ if __name__ == '__main__':
   "degree": "+31°+15°"
 }
 ````
-````
+````python3
 print(data.get('city'))
 >>> Samarqand
 ````
