@@ -4,7 +4,7 @@
 pip install ObHavoUz
 ````
 
-````
+````python3
 from asyncio import get_event_loop
 
 from obhavo import ObHavo
@@ -25,7 +25,7 @@ print(data.get('city'))
 >>> Samarqand
 ````
 
-````
+````python3
 from asyncio import get_event_loop
 
 from obhavo import ObHavo
