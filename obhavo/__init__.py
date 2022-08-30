@@ -1,3 +1,5 @@
 from obhavo.main import ObHavo
 
-__all__ = ['ObHavo']
+__all__ = [
+    'ObHavo'
+]
